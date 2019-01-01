@@ -1,0 +1,38 @@
+@font-face {
+	font-family:MS-DOS;
+	src:url(font/DOS.ttf);
+}
+body {
+	background-color:#000;
+	margin:0;
+
+}
+#typing-text {
+	margin:0;
+	font-family:MS-DOS;
+	color:white;
+	display:inline-block;
+}
+#static-text {
+	margin:0;
+	font-family:MS-DOS;
+	color:white;
+}
+#prefix-text {
+	margin:0;
+	font-family:MS-DOS;
+	color:white;
+	display:inline-block;
+}
+#output-text {
+	margin:0;
+	font-family:MS-DOS;
+	color:white;
+}
+#cursor {
+	display:inline;
+	font-family:MS-DOS;
+	color:white;
+	font-weight:bold;
+	visibility:visible;
+}
